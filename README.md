@@ -27,3 +27,5 @@ The app will display the type of triangle and draw a diagram.
 Contributions:
 
 If you have ideas to improve this app, feel free to open an issue or pull request
+
+author : Imran Younus
