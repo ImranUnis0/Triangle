@@ -29,3 +29,4 @@ Contributions:
 If you have ideas to improve this app, feel free to open an issue or pull request
 
 author : Imran Younus
+link : https://www.linkedin.com/in/imran-younus-031283111/
